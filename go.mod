@@ -1,4 +1,4 @@
-module github.com/mattermost/migration-assist
+module github.com/radist/migration-assist
 
 go 1.22
 
